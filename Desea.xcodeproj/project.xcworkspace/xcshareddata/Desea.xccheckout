@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5155FF95-C88F-418D-8861-0640420D08EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Desea</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E20BA266F329D9B230B8A9A74F1249E5B311A0F0</key>
+		<string>ssh://github.com/suntinghui/Desea.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Desea.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E20BA266F329D9B230B8A9A74F1249E5B311A0F0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/suntinghui/Desea.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E20BA266F329D9B230B8A9A74F1249E5B311A0F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E20BA266F329D9B230B8A9A74F1249E5B311A0F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Desea</string>
+		</dict>
+	</array>
+</dict>
+</plist>
